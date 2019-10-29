@@ -27,7 +27,7 @@
 3.1.1.6 [Просмотр информации об еженедельном планировании команды](#view_information_about_an_weekly_planning_team)  
 3.1.1.7 [Просмотр информации об квартальном планировании команды](#view_information_about_an_quarterly_planning_team)
 3.1.1.8 [Просмотр информации об еженедельном планировании компании](#view_information_about_an_weekly_planning_company)  
-3.1.1.9 [Просмотр информации об квартальном планировании компании](#view_information_about_an_quarterly planning_company) 
+3.1.1.9 [Просмотр информации об квартальном планировании компании](#view_information_about_an_quarterly_planning_company) 
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
 3.2.1.1 [Требования к удобству использования](#requirements_for_ease_of_use)    
