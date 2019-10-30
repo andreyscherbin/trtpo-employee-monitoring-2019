@@ -22,7 +22,7 @@
 3.1.1.1 [Вход пользователя в приложение](#user_logon_to_the_application)  
 3.1.1.2 [Еженедельное планирование](#weekly_planning)  
 3.1.1.3 [Квартальное планирование](#quarterly_planning)  
-3.1.1.4 [Просмотр информации об еженедельном планировании сотрудника](#view_information_about_an_weekly_planning_employee) 
+3.1.1.4 [Просмотр информации об еженедельном планировании сотрудника](#view_information_about_an_weekly_planning_employee)  
 3.1.1.5 [Просмотр информации об квартальном планировании сотрудника](#view_information_about_an_quarterly_planning_employee)  
 3.1.1.6 [Просмотр информации об еженедельном планировании команды](#view_information_about_an_weekly_planning_team)  
 3.1.1.7 [Просмотр информации об квартальном планировании команды](#view_information_about_an_quarterly_planning_team)  
