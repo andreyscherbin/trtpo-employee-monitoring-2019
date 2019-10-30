@@ -80,7 +80,7 @@
 
 ## 2.2 Интерфейс пользователя
 Еженедельное планирование.  
-![Еженедельное планирование](../../Images/Mockups/WeeklyPlanning.PNG)
+![Еженедельное планирование](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/Mockups/WeeklyPlanning.PNG)
 
 <a name="user_specifications"/>
 
