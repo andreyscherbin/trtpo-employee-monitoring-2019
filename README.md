@@ -79,8 +79,9 @@
 <a name="user_interface"/>
 
 ## 2.2 Интерфейс пользователя
-Еженедельное планирование.  
+Еженедельное планирование сотрудника.  
 ![Еженедельное планирование](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/Mockups/WeeklyPlanning.PNG)
+Еженедельное планирование команды.
 
 <a name="user_specifications"/>
 
