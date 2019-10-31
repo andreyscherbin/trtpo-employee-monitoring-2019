@@ -85,6 +85,7 @@
 ![Еженедельное планирование команды](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/Mockups/WeeklyPlanningTeam.PNG)
 Квартальное планирование сотрудника.
 ![Квартальное планирование сотрудника](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/Mockups/QuarterPlanning.PNG)
+![Квартальное планирование команды](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/Mockups/QuarterPlanningTeam.PNG)
 
 <a name="user_specifications"/>
 
