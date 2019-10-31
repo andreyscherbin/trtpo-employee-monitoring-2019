@@ -8,7 +8,6 @@
 1.2.1 [Исходные данные](#initial_data)  
 1.2.2 [Возможности бизнеса](#business_opportunities)  
 1.2.3 [Границы проекта](#project_boundary)  
-1.3 [Аналоги](#analogues)  
 2 [Требования пользователя](#user_requirements)  
 2.1 [Программные интерфейсы](#software_interfaces)  
 2.2 [Интерфейс пользователя](#user_interface)  
@@ -62,11 +61,6 @@
 ### 1.2.3 Границы проекта
 Приложение «Мониторинг продуктивности сотрудников» позволит руководителям проектов получать еженедельно информацию о успехах и неудачах сотруников, задействованнных в реализации проектов. Сотрудники получат возможность немедленного реагирования на проблемы, возникающие в ходе работы, и получения четких, конкретно поставленных задач.
 
-<a name="analogues"/>
-
-## 1.3 Аналоги
-Обзор аналогов представлен в документе [Overview of analogues](../Requirements/Overview%20of%20analogues.md).
-
 <a name="user_requirements"/>
 
 # 2 Требования пользователя
@@ -85,6 +79,7 @@
 ![Еженедельное планирование команды](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/Mockups/WeeklyPlanningTeam.PNG)
 Квартальное планирование сотрудника.
 ![Квартальное планирование сотрудника](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/Mockups/QuarterPlanning.PNG)
+Квартальное планирование команды.
 ![Квартальное планирование команды](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/Mockups/QuarterPlanningTeam.PNG)
 
 <a name="user_specifications"/>
