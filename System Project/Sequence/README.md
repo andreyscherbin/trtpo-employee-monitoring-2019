@@ -9,7 +9,7 @@
 <a name="reg"/>
 
 # 1 Зарегистрироваться
-![Зарегистрироваться](../../../Images/System%20design/Registration(sq).jpg)
+![Зарегистрироваться](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/System%20Design/Registration(Sequence).PNG)
 
 <a name="login"/>
 
