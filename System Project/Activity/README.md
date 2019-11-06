@@ -3,7 +3,7 @@
 
 # Содержание
 1 [Зарегистрироваться](#reg)  
-2 [Войти в учётную запись](#login)  
+2 [Квартальное планирование сотрудника](#quarter_planning_employee)  
 3 [Добавить элемент](#add)
 
 <a name="reg"/>
@@ -11,10 +11,10 @@
 # 1 Зарегистрироваться
 ![Зарегистрироваться](../../../Images/System%20design/Registration(ac).png)
 
-<a name="login"/>
+<a name="quarter_planning_employee"/>
 
-# 2 Войти в учётную запись
-![Войти в учётную записть](../../../Images/System%20design/login(ac).png)
+# 2 Квартальное планирование сотрудника
+![Квартальное планирование сотрудника](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/System%20Design/QuarterPlanningEmployee(activity).PNG)
 
 <a name="add"/>
 
