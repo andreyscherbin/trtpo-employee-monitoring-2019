@@ -14,7 +14,7 @@
 <a name="quarter_planning_employee"/>
 
 # 2 Квартальное планирование сотрудника
-![Квартальное планирование сотрудника](../../../Images/System%20design/Login(sq).png)
+![Квартальное планирование сотрудника](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/System%20Design/QuarterPlanningEmployee(sequence).PNG)
 
 <a name="add"/>
 
