@@ -19,5 +19,5 @@
 <a name="add"/>
 
 # 3 Добавить элемент
-![Добавить элемент](../../../Images/System%20design/LoadNews(sq).png)
+![Добавить элемент](https://github.com/andreyscherbin/trtpo-employee-monitoring-2019/blob/master/Images/System%20Design/AddElement(sequence).PNG)
 
