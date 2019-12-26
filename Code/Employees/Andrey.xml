@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+<employee>
+    <name>Андрей Щербин</name>
+    <password>12345</password>
+    <email>andrey123scherbin@gmail.com</email>
+    <plans>
+        <plan>Сдать курсовую</plan>
+        <plan>Не умереть</plan>
+    </plans>
+    <success>
+        <succes>Сделал токс3</succes>
+        <succes>Сделал токс1</succes>
+        <succes>Сделал токс2</succes>
+        <succes>Сделал токс4</succes>
+    </success>
+    <problems>
+        <problem>Времени нет</problem>
+    </problems>
+</employee>
+<employee>
+    <name>Петр Генадьевич</name>
+    <password>11111</password>
+    <email>boysuperstar@gmail.com</email>
+    <plans>
+        <plan>Сдать курсовую</plan>
+        <plan>Не умереть</plan>
+    </plans>
+    <success>
+        <succes>Сделал токс3</succes>
+
+        <succes>Сделал токс2</succes>
+        <succes>Сделал токс4</succes>
+    </success>
+    <problems>
+        <problem>Времени нет</problem>
+    </problems>
+</employee>
+</employees>
